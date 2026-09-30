@@ -11,7 +11,7 @@ This dataset consists of two seperate CSV files : matches and deliveries. These 
 **What it shows:**
 Multi-table joins + complex aggregations + sports analytics + business storytelling
 
-### Step 5 — Key findings
+### Steps — Key findings
 
 - Most successful IPL team of all time
 - Whether toss winner wins more often (spoiler: mildly yes)
