@@ -13,9 +13,9 @@ Multi-table joins + complex aggregations + sports analytics + business storytell
 
 ### Steps — Key findings
 
-- Most successful IPL team of all time
-- Whether toss winner wins more often (spoiler: mildly yes)
-- All-time top run scorer and wicket taker
-- Best economy bowlers
-- Highest scoring season in IPL history
+- 1. Most successful IPL team of all time
+- 2. Whether toss winner wins more often (spoiler: mildly yes)
+- 3. All-time top run scorer and wicket taker
+- 4. Best economy bowlers
+- 5. Highest scoring season in IPL history
 
